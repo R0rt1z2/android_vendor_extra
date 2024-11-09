@@ -12,5 +12,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/amazon-oss/OTA/cm-14.1/{device}.json</string>
+    <string name="updater_server_url" translatable="false">https://raw.githubusercontent.com/r0rt1z2-releases/LineageOS_{device}/main/cm-14.1/{device}.json</string>
 </resources>

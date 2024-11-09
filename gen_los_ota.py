@@ -24,8 +24,7 @@ id = md5(open(filename, "rb").read()).hexdigest()
 size = os.stat(filename).st_size
 url = "".join(
     [
-        # TO EDIT
-        "https://github.com/ItsVixano-releases/LineageOS_",
+        "https://github.com/r0rt1z2-releases/LineageOS_",
         codename,
         "/releases/download/",
         sub("[^0-9]", "", incremental)[:-6],
